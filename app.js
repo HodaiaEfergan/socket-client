@@ -1,4 +1,4 @@
-var BASE_URL = "https://mysterious-atoll-34815.herokuapp.com/";
+var BASE_URL = "https://my-socket.herokuapp.com/";
 var TEST_URL = "http://localhost:8080"
 
 const port = process.env.PORT || 8080;
